@@ -1,7 +1,7 @@
 # B38M-Yourcontrols-profile
 Ifly B38M Yourcontrols profile
 
-# FAQ
+## FAQ
 
-** Is the efb synced? **
+### **Is the efb synced?**
 No
