@@ -1,2 +1,2 @@
-# 7M8-Yourcontrols-profile
-Ifly 7M8 Yourcontrols profile
+# B38M-Yourcontrols-profile
+Ifly B38M Yourcontrols profile
