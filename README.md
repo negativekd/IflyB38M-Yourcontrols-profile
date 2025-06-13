@@ -1,5 +1,5 @@
 # B38M-Yourcontrols-profile
-Ifly B38M Yourcontrols profile
+This is a YourControls profile created for the Ifly B38M
 
 ## FAQ
 
