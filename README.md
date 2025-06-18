@@ -17,3 +17,6 @@ Use the issues tab on page, and describe your problem
 
 ### **Can the profile be used with gsx?**
 Yes but ensure that only use it if in control on YourControls
+
+### **Which interaction stlye should i use?**
+Use the MSFS style cockpit interaction from within the Ifly manager
